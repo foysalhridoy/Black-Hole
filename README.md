@@ -7,7 +7,7 @@ A mesmerizing 3D animation of a black hole built entirely with **HTML**, **CSS**
 [👉 Live Demo](https://your-demo-link.com)  
 *(Replace with your live deployment URL, e.g., GitHub Pages or Netlify)*
 
-![Black Hole Animation Preview](preview.gif)  
+![Black Hole Animation Preview](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JucXI2MjZhdGxreDFhaW8yNTh3a2ZrcXZjZjF5b242d3Biem5lZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DjQZeqf3HqAQBqu45D/giphy.gif)  
 *Sample visualization of the black hole animation.*
 
 ---
